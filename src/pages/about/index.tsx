@@ -1,7 +1,5 @@
-import React from "react";
 import { Container, Title, Content, Text, Image } from "./styles";
 import metricTape from '../../assets/metricTape.png'
-
 
 export function About() {
   return (
